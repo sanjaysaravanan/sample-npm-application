@@ -1,0 +1,16 @@
+{
+  "name": "sample-npm-application",
+  "version": "1.0.0",
+  "description": "Sample Node Application to understand how node packages works",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"No Testing added\" && exit 1",
+    "compare": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "c3": "^0.7.20",
+    "lodash": "^4.17.21"
+  }
+}
